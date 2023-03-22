@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thadah D. Denyse</h1>
 <h3 align="center">A basque software developer focused on cybersecurity and digital democratization through open-source app translation and localization</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thadah&label=Profile%20views&color=0e75b6&style=flat" alt="thadah" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thadah" alt="thadah" /></a> </p>
 
 - 🔭 I’m currently working at **NTS Seidor** on [Moonshot](https://www.securitasdirect.es/alarma-securitas-direct/panel-de-control)
@@ -8,6 +10,36 @@
 - 🌱 I’m currently learning **Cybersecurity**
 
 
+<ul>
+<li>:computer: My projects:
+    <table>
+      <tr>
+        <th>Project name</th>
+        <th>Date</th>
+        <th>Lang</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Thadah/NSPlugins">NSPlugins</a></td>
+        <td>2020</td>
+        <td>Lua</td>
+        <td>Garry's Mod plugin</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Thadah/GarryWare13">GarryWare13</a></td>
+        <td>2020</td>
+        <td>Lua</td>
+        <td>Garry's Mod gamemode</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/euskalbar/euskalbar">euskalbar</a></td>
+        <td>2023</td>
+        <td>JS</td>
+        <td>Basque translator's friend</td>
+      </tr>
+    </table>
+  </li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
