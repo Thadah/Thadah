@@ -11,7 +11,7 @@
 
 
 <ul>
-<li>:computer: My projects:
+<li>:computer: Coding projects:
     <table>
       <tr>
         <th>Project name</th>
@@ -20,22 +20,56 @@
         <th>Description</th>
       </tr>
       <tr>
-        <td><a href="https://github.com/Thadah/NSPlugins">NSPlugins</a></td>
-        <td>2020</td>
-        <td>Lua</td>
-        <td>Garry's Mod plugin</td>
-      </tr>
-      <tr>
         <td><a href="https://github.com/Thadah/GarryWare13">GarryWare13</a></td>
         <td>2020</td>
         <td>Lua</td>
-        <td>Garry's Mod gamemode</td>
+        <td>Garry's Mod gamemode based on WarioWare</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Thadah/helix-plugins">Helix Plugins</a></td>
+        <td>2021</td>
+        <td>Lua</td>
+        <td>Plugins for Garry's Mod Helix gamemode</td>
       </tr>
       <tr>
         <td><a href="https://github.com/euskalbar/euskalbar">euskalbar</a></td>
         <td>2023</td>
         <td>JS</td>
         <td>Basque translator's friend</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/urtxintxa/YeePang">YeePang</a></td>
+        <td>2017</td>
+        <td>Ruby</td>
+        <td>Pang game made in Gosu (Ruby)</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/XLekunberri/PokeSweeper">PokeSweeper</a></td>
+        <td>2016</td>
+        <td>Java</td>
+        <td>Minesweeper made in Java</td>
+      </tr>
+    </table>
+  </li>
+</ul>
+
+<ul>
+<li>:computer: Translation projects:
+    <table>
+      <tr>
+        <th>Project name</th>
+        <th>Date</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/QuantumBadger/RedReader">RedReader</a></td>
+        <td>2023</td>
+        <td>An unofficial, open source Android client for Reddit.</td>
+      </tr>
+      <tr>
+        <td><a href="https://nextcloud.com/">Nextcloud</a></td>
+        <td>2023</td>
+        <td>Industry-leading, fully open-source, on-premises content collaboration platform</td>
       </tr>
     </table>
   </li>
