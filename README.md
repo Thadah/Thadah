@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thadah" alt="thadah" /></a> </p>
 
-- 🔭 I’m currently working at **NTS Seidor** on [Moonshot](https://www.securitasdirect.es/alarma-securitas-direct/panel-de-control)
+- 🔭 I’m currently working at **NTS Seidor** on [Securitas Direct's Central Unit](https://www.securitasdirect.es/alarma-securitas-direct/panel-de-control)
 
 - 🌱 I’m currently learning **Cybersecurity**
 
@@ -47,7 +47,7 @@
         <td><a href="https://github.com/XLekunberri/PokeSweeper">PokeSweeper</a></td>
         <td>2016</td>
         <td>Java</td>
-        <td>Minesweeper made in Java</td>
+        <td>A Pokemon themed Minesweeper made in Java</td>
       </tr>
     </table>
   </li>
@@ -62,9 +62,9 @@
         <th>Description</th>
       </tr>
       <tr>
-        <td><a href="https://github.com/QuantumBadger/RedReader">RedReader</a></td>
+        <td><a href="https://github.com/bitfireAT/davx5-ose">DAVx⁵</a></td>
         <td>2023</td>
-        <td>An unofficial, open source Android client for Reddit.</td>
+        <td>An open-source CalDAV/CardDAV suite and sync app for Android</td>
       </tr>
       <tr>
         <td><a href="https://nextcloud.com/">Nextcloud</a></td>
