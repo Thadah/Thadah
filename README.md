@@ -20,10 +20,10 @@
         <th>Description</th>
       </tr>
       <tr>
-        <td><a href="https://github.com/Thadah/GarryWare13">GarryWare13</a></td>
-        <td>2020</td>
-        <td>Lua</td>
-        <td>Garry's Mod gamemode based on WarioWare</td>
+        <td><a href="https://github.com/euskalbar/euskalbar">euskalbar</a></td>
+        <td>2023</td>
+        <td>JS</td>
+        <td>Basque translator's friend</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Thadah/helix-plugins">Helix Plugins</a></td>
@@ -32,10 +32,10 @@
         <td>Plugins for Garry's Mod Helix gamemode</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/euskalbar/euskalbar">euskalbar</a></td>
-        <td>2023</td>
-        <td>JS</td>
-        <td>Basque translator's friend</td>
+        <td><a href="https://github.com/Thadah/GarryWare13">GarryWare13</a></td>
+        <td>2020</td>
+        <td>Lua</td>
+        <td>Garry's Mod gamemode based on WarioWare</td>
       </tr>
       <tr>
         <td><a href="https://github.com/urtxintxa/YeePang">YeePang</a></td>
