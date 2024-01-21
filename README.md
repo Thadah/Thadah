@@ -5,10 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thadah" alt="thadah" /></a> </p>
 
-- 🔭 I’m currently working at **NTS Seidor** on [Securitas Direct's Central Unit](https://www.securitasdirect.es/alarma-securitas-direct/panel-de-control)
 
-- 🌱 I’m currently learning **Cybersecurity**
-
+- 💻 I have a blog (in spanish) about general Arch Linux knowledge! [El Sótano en la Red](https://elsotanoenlared.es)
+- 📄 I use [Garuda Linux](https://garudalinux.org/) and develop with [Visual Studio Code](https://github.com/microsoft/vscode/) (code-oss)
 
 <ul>
 <li>:computer: Coding projects:
@@ -54,6 +53,33 @@
 </ul>
 
 <ul>
+<li>:computer: My Gists:
+    <table>
+      <tr>
+        <th>Gist name</th>
+        <th>Date</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://gist.github.com/Thadah/33946794819d773dc2b9b93259abe6ea">Clear New Teams Cache</a></td>
+        <td>2023</td>
+        <td>Utility script to clear New Teams cache and restart the application without losing credentials</td>
+      </tr>
+      <tr>
+        <td><a href="https://gist.github.com/Thadah/28a83b3f97f7bdcb76a75c3d3337f7b5">MP3 to M4A</a></td>
+        <td>2023</td>
+        <td>Converts a folder full of MP3 files into AAC-LC M4A files with all metadata and artwork</td>
+      </tr>
+      <tr>
+        <td><a href="https://gist.github.com/Thadah/4cc25c8516436b58f98a87408ac37868">Clear Teams Cache</a></td>
+        <td>2023</td>
+        <td>Utility script to clear Old Teams cache and restart the application without losing credentials</td>
+      </tr>
+    </table>
+  </li>
+</ul>
+
+<ul>
 <li>:computer: Translation projects:
     <table>
       <tr>
@@ -63,13 +89,33 @@
       </tr>
       <tr>
         <td><a href="https://github.com/bitfireAT/davx5-ose">DAVx⁵</a></td>
-        <td>2023</td>
+        <td>2024</td>
         <td>An open-source CalDAV/CardDAV suite and sync app for Android</td>
       </tr>
       <tr>
         <td><a href="https://nextcloud.com/">Nextcloud</a></td>
-        <td>2023</td>
+        <td>2024</td>
         <td>Industry-leading, fully open-source, on-premises content collaboration platform</td>
+      </tr>
+      <tr>
+        <td><a href="https://newpipe.net/">NewPipe</a></td>
+        <td>2024</td>
+        <td>The lightweight YouTube experience for Android</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/QuantumBadger/RedReader">RedReader</a></td>
+        <td>2023</td>
+        <td>An unofficial, open source Android client for Reddit.</td>
+      </tr>
+      <tr>
+        <td><a href="https://wiki.manjaro.org/index.php?title=Pamac">Pamac Package Manager</a></td>
+        <td>2022</td>
+        <td>Pamac (Add/Remove Software) is Manjaro's Package Manager</td>
+      </tr>
+      <tr>
+        <td><a href="https://kde.org/">KDE Plasma</a></td>
+        <td>2021</td>
+        <td>The next generation desktop for Linux</td>
       </tr>
     </table>
   </li>
