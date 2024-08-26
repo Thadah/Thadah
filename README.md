@@ -103,9 +103,14 @@
         <td>The lightweight YouTube experience for Android</td>
       </tr>
       <tr>
+        <td><a href="https://newpipe.net/">qBittorrent</a></td>
+        <td>2024</td>
+        <td>A bittorrent client programmed in C++/Qt that uses libtorrent. Since version 5 is being releasd, the translation can be changed from the old and broken basque translation</td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/QuantumBadger/RedReader">RedReader</a></td>
         <td>2023</td>
-        <td>An unofficial, open source Android client for Reddit.</td>
+        <td>An unofficial, open source Android client for Reddit. Discontinued following the <a href="https://en.wikipedia.org/wiki/2023_Reddit_API_controversy">Reddit API debacle</a></td>
       </tr>
       <tr>
         <td><a href="https://wiki.manjaro.org/index.php?title=Pamac">Pamac Package Manager</a></td>
