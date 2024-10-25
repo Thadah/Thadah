@@ -62,18 +62,18 @@
       </tr>
       <tr>
         <td><a href="https://gist.github.com/Thadah/33946794819d773dc2b9b93259abe6ea">Clear New Teams Cache</a></td>
-        <td>2023</td>
+        <td>2024</td>
         <td>Utility script to clear New Teams cache and restart the application without losing credentials</td>
+      </tr>
+      <tr>
+        <td><a href="https://gist.github.com/Thadah/0cda88b2201d0c8a4c440dde1b08a430">Auto Join w2g.tv Room - Tampermonkey Script</a></td>
+        <td>2023</td>
+        <td>This Tampermonkey Script prevents the annoying username selection modal appear every time you join a room</td>
       </tr>
       <tr>
         <td><a href="https://gist.github.com/Thadah/28a83b3f97f7bdcb76a75c3d3337f7b5">MP3 to M4A</a></td>
         <td>2023</td>
         <td>Converts a folder full of MP3 files into AAC-LC M4A files with all metadata and artwork</td>
-      </tr>
-      <tr>
-        <td><a href="https://gist.github.com/Thadah/4cc25c8516436b58f98a87408ac37868">Clear Teams Cache</a></td>
-        <td>2023</td>
-        <td>Utility script to clear Old Teams cache and restart the application without losing credentials</td>
       </tr>
     </table>
   </li>
