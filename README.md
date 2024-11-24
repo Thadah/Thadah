@@ -23,6 +23,14 @@ Code](https://github.com/microsoft/vscode/) (code-oss)
         <th>Description<img width="600" height="1"></th>
       </tr>
       <tr>
+        <td><a href="https://github.com/thadah/v_vmifier">V/Vm-ifier</a></td>
+        <td>2024</td>
+        <td><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img
+              src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rust.svg" alt="rust" width="20"
+              height="20" /> </a></td>
+        <td>A string randomizer inspired by V/Vm HelpAphexTwin4.0 that creates random songlists or transforms any input. </td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/euskalbar/euskalbar">euskalbar</a></td>
         <td>2023</td>
         <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
