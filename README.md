@@ -83,6 +83,11 @@ Code](https://github.com/microsoft/vscode/) (code-oss)
         <th>Description</th>
       </tr>
       <tr>
+        <td><a href="https://gist.github.com/Thadah/6a7888d22c4f79055fe6df4f1462a43e">Update Git Remotes</a></td>
+        <td>2025</td>
+        <td>Utility script to update the old domain of local git remotes to the new one</td>
+      </tr>
+      <tr>
         <td><a href="https://gist.github.com/Thadah/33946794819d773dc2b9b93259abe6ea">Clear New Teams Cache</a></td>
         <td>2024</td>
         <td>Utility script to clear New Teams cache and restart the application without losing credentials</td>
