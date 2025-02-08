@@ -2,8 +2,10 @@
 <h3 align="center">A basque software developer focused on cybersecurity and digital democratization through open-source
   app translation and localization</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thadah&label=Profile%20views&color=0e75b6&style=flat"
-    alt="thadah" /> </p>
+<p align="left">  <img 
+    src="https://visitcounter.aichan.ovh/counter/Thadah/svg?label=Profile%20Views" height=20
+    alt="Thadah's Visit Counter" /> </p>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=thadah&column=10&margin-w=15" alt="thadah" /></a> </p>
@@ -117,13 +119,18 @@ Code](https://github.com/microsoft/vscode/) (code-oss)
         <th>Description</th>
       </tr>
       <tr>
+        <td><a href="https://github.com/fallenbagel/jellyseerr">Jellyseerr</a></td>
+        <td>2025</td>
+        <td>Free and open source software application for managing requests for your media library</td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/bitfireAT/davx5-ose">DAVx⁵</a></td>
-        <td>2024</td>
+        <td>2025</td>
         <td>An open-source CalDAV/CardDAV suite and sync app for Android</td>
       </tr>
       <tr>
         <td><a href="https://nextcloud.com/">Nextcloud</a></td>
-        <td>2024</td>
+        <td>2025</td>
         <td>Industry-leading, fully open-source, on-premises content collaboration platform</td>
       </tr>
       <tr>
