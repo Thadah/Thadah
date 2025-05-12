@@ -119,6 +119,11 @@ Code](https://github.com/microsoft/vscode/) (code-oss)
         <th>Description</th>
       </tr>
       <tr>
+        <td><a href="https://github.com/jellyfin/jellyfin">Jellyfin</a></td>
+        <td>2025</td>
+        <td>The Free Software Media System - Server Backend & API </td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/fallenbagel/jellyseerr">Jellyseerr</a></td>
         <td>2025</td>
         <td>Free and open source software application for managing requests for your media library</td>
