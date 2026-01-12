@@ -120,22 +120,22 @@ Code](https://github.com/microsoft/vscode/) (code-oss)
       </tr>
       <tr>
         <td><a href="https://codeberg.org/rimu/pyfedi">Piefed</a></td>
-        <td>2025</td>
+        <td>2026</td>
         <td>Reddit/Lemmy alternative. Federated, open‑source, ad‑free, and fully under your control</td>
       </tr>
       <tr>
         <td><a href="https://github.com/jellyfin/jellyfin">Jellyfin</a></td>
-        <td>2025</td>
+        <td>2026</td>
         <td>The Free Software Media System - Server Backend & API</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/fallenbagel/jellyseerr">Jellyseerr</a></td>
-        <td>2025</td>
+        <td><a href="https://github.com/seerr-team/seerr">Seerr</a></td>
+        <td>2026</td>
         <td>Free and open source software application for managing requests for your media library</td>
       </tr>
       <tr>
         <td><a href="https://github.com/bitfireAT/davx5-ose">DAVx⁵</a></td>
-        <td>2025</td>
+        <td>2026</td>
         <td>An open-source CalDAV/CardDAV suite and sync app for Android</td>
       </tr>
       <tr>
@@ -145,7 +145,7 @@ Code](https://github.com/microsoft/vscode/) (code-oss)
       </tr>
       <tr>
         <td><a href="https://newpipe.net/">NewPipe</a></td>
-        <td>2024</td>
+        <td>2026</td>
         <td>The lightweight YouTube experience for Android</td>
       </tr>
       <tr>
