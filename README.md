@@ -8,12 +8,11 @@
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=thadah&column=10&margin-w=15" alt="thadah" /></a> </p>
+      src="https://github-profile-trophy-fork-two.vercel.app/?username=thadah&column=10&margin-w=15" alt="thadah" /></a> </p>
 
 
-- 💻 I have a blog (in spanish) about general Arch Linux knowledge! [El Sótano en la Red](https://elsotanoenlared.es)
-- 📄 I use [Garuda Linux](https://garudalinux.org/) and develop with [Visual Studio
-Code](https://github.com/microsoft/vscode/) (code-oss)
+- 💻 I have a blog (in spanish) about general Arch Linux knowledge! [El Sótano en la Red](https://elsotanoenlared.eu)
+- 📄 I use [EndeavourOS](https://endeavouros.com/) and develop with [VS Codium](https://vscodium.com/)
 
 <ul>
   <li>:computer: Coding projects:
@@ -25,12 +24,28 @@ Code](https://github.com/microsoft/vscode/) (code-oss)
         <th>Description<img width="600" height="1"></th>
       </tr>
       <tr>
+        <td><a href="https://git.prisma.moe/Thadah/poisson-disc-sampling-background-generator">Poisson-Disc Sampling Background Generator</a></td>
+        <td>2026</td>
+        <td><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
+              src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Light.svg" alt="python" width="20"
+              height="20" /> </a></td>
+        <td>A static CSS background generator using Poisson-Disc Sample generation</td>
+      </tr>
+      <tr>
+        <td><a href="https://git.prisma.moe/Thadah/hackmeeting_scraper">Hackmeeting Scraper</a></td>
+        <td>2025</td>
+        <td><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
+              src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Light.svg" alt="python" width="20"
+              height="20" /> </a></td>
+        <td>Scraper for the hackmeeting website hosted in https://es.hackmeeting.org/hm</td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/thadah/v_vmifier">V/Vm-ifier</a></td>
         <td>2024</td>
         <td><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img
               src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rust.svg" alt="rust" width="20"
               height="20" /> </a></td>
-        <td>A string randomizer inspired by V/Vm HelpAphexTwin4.0 that creates random songlists or transforms any input. </td>
+        <td>A string randomizer inspired by V/Vm HelpAphexTwin4.0 that creates random songlists or transforms any input.</td>
       </tr>
       <tr>
         <td><a href="https://github.com/euskalbar/euskalbar">euskalbar</a></td>
@@ -180,7 +195,7 @@ Code](https://github.com/microsoft/vscode/) (code-oss)
   <a href="https://stackoverflow.com/users/5934926" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
       alt="5934926" height="30" width="40" /></a>
-  <a href="https://elsotanoenlared.es/feed/" target="blank"><img align="center"
+  <a href="https://elsotanoenlared.eu/feed/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg"
       alt="https://elsotanoenlared.es/feed/" height="30" width="40" /></a>
 </p>
